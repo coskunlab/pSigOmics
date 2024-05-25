@@ -5,7 +5,7 @@ This repository contains code for the manuscript "High Throughput, Programmable 
 
 To set up environments, run the following command: `conda env create -f environ.yml`
 
-Example data can be found at: (Zenodo)
+Example data can be found at: https://zenodo.org/records/11292144
 
 01_dim_reduce_2D_embedding_drug_vs_control.ipynb creates the plot for single cell latent space embeddings (Fig. 4b)
 
