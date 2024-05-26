@@ -11,10 +11,13 @@ Example data can be found at: https://zenodo.org/records/11292144
 
 <img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/TNFa_time.png" height="250"> <img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/TNFa_stim.png" height="250"> <img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/TNFa_P-R.png" height="250">
 
-02_boxplot_p65_stim_continuous_drug_vs_control.ipynb plots the NFkB response across static fixation times. It also plots the RNA and protein curves over this time axis to illustrate the anticorrelation effect.
+02_boxplot_p65_stim_continuous_drug_vs_control.ipynb plots the NFkB response across static fixation times. 
 
 <img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/IL1B_CellCounts_norm.png" height="250"> <img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/TNFa_MedianNucCytoRatio_IQR.png" height="250">
+It also plots the RNA and protein curves over this time axis to illustrate the anticorrelation effect.
 <img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/IL1B_WholeCell.png" height="250"> <img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/TNFa_Cytosol.png" height="250">
+We also investigated the relationship between p65 RNA (signaling) and GAPDH RNA (signaling)
+<img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/TNFa_RNA_Count.png" height="250"> <img src="https://github.com/coskunlab/pSigOmics/blob/main/figures/TNFa_RNA_Intensity.png" height="250">
 
 # Citation
 
